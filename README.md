@@ -1,5 +1,5 @@
 # hello-world
-My first github repository
+My first github repository, read me edit.
 
 
 Hi I am from Soshanguve, and I like sphatlho. I wish I could be the first man to have sphatlo on the moon.
